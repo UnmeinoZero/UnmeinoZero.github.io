@@ -3,4 +3,10 @@
     background-color: transparent;
     background-image: none;
 }
+#web_bg {
+    height: 98%;
+}
+.footer_custom_text {
+    color: #00c4b6;
+}
 
