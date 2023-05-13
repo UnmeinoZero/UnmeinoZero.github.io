@@ -6,7 +6,7 @@ http://unmeinozero.github.io/tags/index.html
 http://unmeinozero.github.io/categories/index.html
 http://unmeinozero.github.io/
 http://unmeinozero.github.io/tags/%E7%BC%96%E7%A8%8B/
+http://unmeinozero.github.io/tags/hexo/
 http://unmeinozero.github.io/tags/mysql/
 http://unmeinozero.github.io/tags/linux/
-http://unmeinozero.github.io/tags/hexo/
 http://unmeinozero.github.io/tags/%E9%9D%A2%E8%AF%95%E9%A2%98/
